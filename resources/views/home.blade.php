@@ -7,7 +7,7 @@
 {{-- @include('products.index') --}}
 
 <div class="flex flex-col  h-full  ">
-    @include('layouts.products.heroZone')
+    @include('layouts.products.hero')
 
 
 
